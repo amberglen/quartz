@@ -1,5 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Amberglen
+publish: true
 ---
 
 This is a blank Quartz installation.
