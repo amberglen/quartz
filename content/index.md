@@ -4,7 +4,6 @@ description:
 permalink: 
 aliases: 
 tags: 
-draft: false
 publish: true
 date: 2025-01-07
 ---
