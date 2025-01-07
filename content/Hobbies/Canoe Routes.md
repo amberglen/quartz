@@ -3,6 +3,8 @@ Created: 2025-01-05 11:56
 tags:
   - canoe
   - algonquin
+Title: Canoe Routes
+publish: true
 ---
 ```dataview
 table without ID

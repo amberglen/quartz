@@ -8,6 +8,8 @@ Trip Type: Out and Back
 Days: 2
 Completed: false
 Access Point: 2 - Tim River
+title: Big Bob Lake
+publish: true
 ---
 ![[Pasted image 20250106210257.png]]
 ### **Pros:**

@@ -8,6 +8,8 @@ Trip Type: Out and Back
 Days: 2
 Completed: false
 Access Point: 6 - Smoke Lake
+Title: Big Porcupine Lake
+publish: true
 ---
 ![[Pasted image 20250106210149.png]]
 ### **Pros:**

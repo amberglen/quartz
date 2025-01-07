@@ -8,6 +8,8 @@ Trip Type: Out and Back
 Days: 2
 Completed: false
 Access Point: 7 - Source Lake
+Title: Linda Lake
+publish: true
 ---
 ![[Pasted image 20250106203711.png]]
 ### **Pros:**
