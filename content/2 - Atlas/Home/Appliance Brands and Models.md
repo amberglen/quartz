@@ -1,5 +1,5 @@
 ---
-{"tags":["appliances/dryer","appliances/washer","appliances"],"Links":"[[Dryer & Washer Replacement]]","Created":"2025-01-08","Modified":"2025-01-08","publish":true,"PassFrontmatter":true,"created":"2025-01-08T11:37:21.017-05:00","updated":"2025-01-08T15:16:13.955-05:00"}
+{"tags":["appliances/dryer","appliances/washer","appliances"],"Links":"[[Dryer & Washer Replacement]]","Created":"2025-01-08","Modified":"2025-01-08","publish":true,"PassFrontmatter":true,"created":"2025-01-08T11:37:21.017-05:00","updated":"2025-01-08T15:37:00.624-05:00"}
 ---
 
 ## Washer and Dryer
@@ -104,8 +104,35 @@ The following service rates are based on a minimum of 100 products sold and a to
 </div></div>
 
 
-| **Link**                                                                                                                                                                  | Model #   | **Price** | **Dimensions (WxDxH)**          | **Notes**                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------- | ------------------------------- | ----------------------------------------------------------------------------------- |
-| [LG LDTH7972S](https://www.canadianappliance.ca/product/LG_LDTH7972S_Dishwasher_LG_LDTH7972S.html)                                                                        | LDPH7972S | $1,295    | 23 75 in. x 24.6 in. x 33.6 in. | [Most Reliable](https://blog.yaleappliance.com/best-dishwasher-deals)<br>- QuadWash |
-| [LG 6810SS](https://www.costco.ca/lg-24-in.-smudge-resistant-stainless-steel-built-in-top-control-dishwasher-with-truesteam%2c-thinq-and-3rd-rack.product.100757799.html) | LDP6810SS | $899      | 23.75 in. x 24.6 in. x 33.6 in. | - QuadWash                                                                          |
+| **Link**                                                                                                                                                                                                   | Model #       | **Price** | **Dimensions (WxDxH)**          | **Notes**                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | --------- | ------------------------------- | --------------------------------------------------------------------- |
+| [LG 7972S](https://www.canadianappliance.ca/product/LG_LDTH7972S_Dishwasher_LG_LDTH7972S.html)                                                                                                             | LDP==H==7972S | $1,295    | 23.75 in. x 24.6 in. x 33.6 in. | [Most Reliable](https://blog.yaleappliance.com/best-dishwasher-deals) |
+| [LG 6762S](https://www.canadianappliance.ca/product/LG_LDPS6762S_Dishwasher_LG_LDPS6762S.html)                                                                                                             | LDPS6762S     | $995      | 23.75 in. x 24.6 in. x 33.6 in  |                                                                       |
+| [LG 6810SS](https://www.costco.ca/lg-24-in.-smudge-resistant-stainless-steel-built-in-top-control-dishwasher-with-truesteam%2c-thinq-and-3rd-rack.product.100757799.html)<br>Previous model<br>from Costco | LDP6810SS     | $899      | 23.75 in. x 24.6 in. x 33.6 in. |                                                                       |
+| [LG 5552S](https://www.canadianappliance.ca/product/LG_LDTS5552S_Dishwasher_LG_LDTS5552S.html)                                                                                                             | LDTS5552S     | $795      | 23.75 in. x 24.6 in. x 33.6 in. |                                                                       |
+The models above both have TrueSteam, QuadWash, EashRack, ThinQ WiFi and Dual Zone Wash.
 
+LD6810 is the previous model of LDPS6762S & LDPS6762D
+LDT7808 would be the previous model of LDTH7972S
+
+Differences:
+- LDP6810
+	- has a pocket handle
+	- is the previous model
+- LDPS6762
+	- has a pocket handle
+	- is the current model
+	- $54? more than the previous model ($899+$150-$995)
+- LD**T**H7972
+	- has a bar handle
+	- is current model
+	- 1 hour cycle
+	- 2 dBa quieter
+	- better EasyRack system (3rd rack is more adjustable)
+	- has a tub light
+- LDTS5552S
+	- 3rd rack is fixed
+	- no TrueSteam
+	- no remote start
+
+![[LG-Dish-Step-Up-Chart-En (1) 1.pdf]]
