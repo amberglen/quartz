@@ -1,5 +1,5 @@
 ---
-{"tags":["appliances/dryer","appliances/washer","appliances","appliances/dishwasher"],"Links":"[[Dryer & Washer Replacement]]","Created":"2025-01-08","Modified":"2025-01-08","publish":true,"PassFrontmatter":true,"created":"2025-01-08T11:37:21.017-05:00","updated":"2025-01-08T16:04:43.845-05:00"}
+{"tags":["appliances/dryer","appliances/washer","appliances","appliances/dishwasher"],"Links":"[[Dryer & Washer Replacement]]","Created":"2025-01-08","Modified":"2025-01-08","publish":true,"PassFrontmatter":true,"created":"2025-01-08T11:37:21.017-05:00","updated":"2025-01-08T16:14:47.196-05:00"}
 ---
 
 ## Pricing (in-cart) - January 8, 2025
@@ -32,8 +32,6 @@ CAS Installation and haul away terms?
 
 
 
-Front-Load Washer Reliability for 2025
-
 The following service rates are based on a minimum of 100 products sold and a total sample of over 3,000 products within 12 months.
 
 |  | Service Rates |
@@ -61,7 +59,6 @@ Samsung, on the other hand, continues to rely on independent service providers, 
 
 
 
-## Most Reliable Full-Size Clothes Dryers for 2022
 
 |  | Service Rates |
 | --- | --- |
