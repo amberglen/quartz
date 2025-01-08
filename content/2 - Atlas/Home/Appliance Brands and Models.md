@@ -1,5 +1,5 @@
 ---
-{"tags":["appliances/dryer","appliances/washer","appliances"],"Links":"[[Dryer & Washer Replacement]]","Created":"2025-01-08","Modified":"2025-01-08","publish":true,"PassFrontmatter":true,"created":"2025-01-08T11:37:21.017-05:00","updated":"2025-01-08T15:40:48.466-05:00"}
+{"tags":["appliances/dryer","appliances/washer","appliances"],"Links":"[[Dryer & Washer Replacement]]","Created":"2025-01-08","Modified":"2025-01-08","publish":true,"PassFrontmatter":true,"created":"2025-01-08T11:37:21.017-05:00","updated":"2025-01-08T15:43:19.216-05:00"}
 ---
 
 ## Washer and Dryer
@@ -115,7 +115,7 @@ The models above both have TrueSteam, QuadWash, EashRack, ThinQ WiFi and Dual Zo
 LD6810 is the previous model of LDPS6762S & LDPS6762D
 LDT7808 would be the previous model of LDTH7972S
 
-Differences:
+##### Differences:
 - LDP6810
 	- has a pocket handle
 	- is the previous model
@@ -136,3 +136,5 @@ Differences:
 	- no remote start
 
 ![[LG-Dish-Step-Up-Chart-En (1) 1.pdf]]
+
+Leaning towards the middle spec model. Doesn't seem to be a big difference between current and previous model. Can decide by final pricing of Costco bundle and CAS bundle.
