@@ -1,5 +1,5 @@
 ---
-title: Amberglen
+title: Welcome
 description: 
 permalink: 
 aliases: 
@@ -7,8 +7,10 @@ tags:
 publish: true
 date: 2025-01-07
 ---
+This is where I share. 
 
+I'll add a 'recent' table here soon.
 
-Testing
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+and maybe some current interests and projects.
+
+You can use the Explorer on the left for now
