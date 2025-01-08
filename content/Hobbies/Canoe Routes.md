@@ -17,3 +17,5 @@ choice(Completed, "☑", "☐") as Completed
 from #canoe/routes AND !"Templates"
 sort access-point asc
 ```
+[[Linda Lake]]
+[[Big Porcupine Lake]]
