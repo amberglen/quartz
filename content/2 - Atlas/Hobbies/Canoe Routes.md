@@ -1,5 +1,5 @@
 ---
-{"Created":"2025-01-05 11:56","tags":["canoe","algonquin"],"publish":true,"PassFrontmatter":true}
+{"Created":"2025-01-05","tags":["canoe","algonquin"],"publish":true,"PassFrontmatter":true,"created":"2025-01-05T11:56:00.000-05:00","updated":"2025-01-07T22:00:11.047-05:00"}
 ---
 
 | Route                                                           | Access Point    | Time                                                | Portage (km) | Trip Type    | Days | Completed |
