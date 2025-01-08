@@ -1,5 +1,5 @@
 ---
-{"tags":["appliances/dryer","appliances/washer","appliances"],"Links":"[[Dryer & Washer Replacement]]","Created":"2025-01-08","Modified":"2025-01-08","publish":true,"PassFrontmatter":true,"created":"2025-01-08T11:37:21.017-05:00","updated":"2025-01-08T14:57:14.804-05:00"}
+{"tags":["appliances/dryer","appliances/washer","appliances"],"Links":"[[Dryer & Washer Replacement]]","Created":"2025-01-08","Modified":"2025-01-08","publish":true,"PassFrontmatter":true,"created":"2025-01-08T11:37:21.017-05:00","updated":"2025-01-08T15:10:07.692-05:00"}
 ---
 
 ## Washer and Dryer
@@ -116,9 +116,10 @@ The following service rates are based on a minimum of 100 products sold and a to
 </div></div>
 
 
-| **Link**    | Model # | **Price** | **Dimensions (WxDxH)** | **Notes** |
-| ----------- | ------- | --------- | ---------------------- | --------- |
-| [text](url) |         |           |                        |           |
-|             |         |           |                        |           |
-|             |         |           |                        |           |
-|             |         |           |                        |           |
+| **Link**                                                                                                                                                                  | Model #   | **Price** | **Dimensions (WxDxH)**          | **Notes**                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------- | ------------------------------- | ----------------------------------------------------------------------------------- |
+| [LG LDTH7972S](https://www.canadianappliance.ca/product/LG_LDTH7972S_Dishwasher_LG_LDTH7972S.html)                                                                        | LDPH7972S | $1,295    | 23 75 in. x 24.6 in. x 33.6 in. | [Most Reliable](https://blog.yaleappliance.com/best-dishwasher-deals)<br>- QuadWash |
+| [LG 6810SS](https://www.costco.ca/lg-24-in.-smudge-resistant-stainless-steel-built-in-top-control-dishwasher-with-truesteam%2c-thinq-and-3rd-rack.product.100757799.html) | LDP6810SS | $899.00   | 23.75 in. x 24.6 in. x 33.6 in. | - QuadWash                                                                          |
+|                                                                                                                                                                           |           |           |                                 |                                                                                     |
+|                                                                                                                                                                           |           |           |                                 |                                                                                     |
+|                                                                                                                                                                           |           |           |                                 |                                                                                     |
