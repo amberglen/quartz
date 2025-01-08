@@ -1,6 +1,23 @@
 ---
-{"tags":["appliances/dryer","appliances/washer","appliances"],"Links":"[[Dryer & Washer Replacement]]","Created":"2025-01-08","Modified":"2025-01-08","publish":true,"PassFrontmatter":true,"created":"2025-01-08T11:37:21.017-05:00","updated":"2025-01-08T15:43:19.216-05:00"}
+{"tags":["appliances/dryer","appliances/washer","appliances","appliances/dishwasher"],"Links":"[[Dryer & Washer Replacement]]","Created":"2025-01-08","Modified":"2025-01-08","publish":true,"PassFrontmatter":true,"created":"2025-01-08T11:37:21.017-05:00","updated":"2025-01-08T16:00:25.107-05:00"}
 ---
+
+## Pricing (in-cart) 2025
+##### Washer and Dryer
+- Costco: **$1,824.99**
+- CAS Online: **$1802.99**
+- CAS In-Store: 
+
+##### Washer and Dryer + Dishwasher
+- Costco: **$2,574.98** 
+- CAS Online: **$2,797.00**
+- CAS In-Store:  
+
+Costco Earliest Delivery: **Tuesday, January 21, 2025**
+CAS Online Earliest Delivery: **Friday, January 10, 2025**
+CAS In-Store Earliest Delivery: 
+
+CAS Installation and haul away terms?
 
 ## Washer and Dryer
 ---
@@ -135,6 +152,6 @@ LDT7808 would be the previous model of LDTH7972S
 	- no TrueSteam
 	- no remote start
 
-![[LG-Dish-Step-Up-Chart-En (1) 1.pdf]]
+![Pasted image 20250108155324.png](../../Files/Pasted%20image%2020250108155324.png)
 
 Leaning towards the middle spec model. Doesn't seem to be a big difference between current and previous model. Can decide by final pricing of Costco bundle and CAS bundle.
