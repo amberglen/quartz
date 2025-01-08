@@ -1,23 +1,21 @@
 ---
-{"tags":["appliances/dryer","appliances/washer","appliances","appliances/dishwasher"],"Links":"[[Dryer & Washer Replacement]]","Created":"2025-01-08","Modified":"2025-01-08","publish":true,"PassFrontmatter":true,"created":"2025-01-08T11:37:21.017-05:00","updated":"2025-01-08T16:14:47.196-05:00"}
+{"tags":["appliances/dryer","appliances/washer","appliances","appliances/dishwasher"],"Links":"[[Dryer & Washer Replacement]]","Created":"2025-01-08","Modified":"2025-01-08","publish":true,"PassFrontmatter":true,"created":"2025-01-08T11:37:21.017-05:00","updated":"2025-01-08T17:44:51.125-05:00"}
 ---
 
 ## Pricing (in-cart) - January 8, 2025
 ##### Washer and Dryer
-- Costco: **$1,824.99**
-- CAS Online: **$1802.99**
-- CAS In-Store: 
+- Costco: **$2,169.98**
+- CAS Online: 
+- CAS In-Store: $1,920 / $1,981 with stacking
 
 ##### Washer and Dryer + Dishwasher
 - Costco: **$2,574.98** (previous model)
 - CAS Online: **$2,797.00**
-- CAS In-Store:  
+- CAS In-Store:  $2920
 
 Costco Earliest Delivery: **Tuesday, January 21, 2025**
 CAS Online Earliest Delivery: **Friday, January 10, 2025**
-CAS In-Store Earliest Delivery: 
-
-CAS Installation and haul away terms?
+CAS In-Store Earliest Delivery: **Friday**
 
 ## Washer and Dryer
 ---
