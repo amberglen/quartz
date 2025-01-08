@@ -3,16 +3,16 @@
 ---
 
 ![Pasted image 20250106210149.png](../../Files/Pasted%20image%2020250106210149.png)
-### **Pros:**
+### **Pros**
 - Free canoe delivery
 - Little portages
-### **Cons:**
+### **Cons**
 - Could be windy - added travel time
 
-### **Notes:**
+### **Notes**
 
 
-### **Campsites:**
+### **Campsites**
 
 
-### **Trip Report:**
+### **Trip Reports**

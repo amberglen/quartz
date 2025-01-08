@@ -3,15 +3,15 @@
 ---
 
 ![Pasted image 20250106203711.png](../../Files/Pasted%20image%2020250106203711.png)
-### **Pros:**
+### **Pros**
 - Free canoe delivery
-### **Cons:**
+### **Cons**
 - Long portage
 
-### **Notes:**
+### **Notes**
 
 
-### **Campsites:**
+### **Campsites**
 
 
-### **Trip Report:**
+### **Trip Reports**

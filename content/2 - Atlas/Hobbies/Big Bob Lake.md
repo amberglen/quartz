@@ -3,18 +3,18 @@
 ---
 
 ![Pasted image 20250106210257.png](../../Files/Pasted%20image%2020250106210257.png)
-### **Pros:**
+### **Pros**
 - Fishing (Brook Trout)
 - More secluded
-### **Cons:**
+### **Cons**
 - Access road is more rough
 - Canoe rental may have extra $50 charge
 
-### **Notes:**
+### **Notes**
 - 
 
-### **Campsites:**
+### **Campsites**
 - 
 
-### **Trip Report:**
+### **Trip Reports**
 - 
