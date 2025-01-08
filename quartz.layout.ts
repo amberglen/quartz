@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       Email: "mailto:ken@amberglen.ca",
-      "Secrets": "https://youtu.be/dQw4w9WgXcQ?si=uQMzCbUkns28edAs",
+      "Secret Database": "https://youtu.be/dQw4w9WgXcQ?si=uQMzCbUkns28edAs",
     },
   }),
 }
