@@ -1,5 +1,5 @@
 ---
-{"tags":["appliances/dryer","appliances/washer","appliances","appliances/dishwasher"],"Links":"[[Dryer & Washer Replacement]]","Created":"2025-01-08","Modified":"2025-01-08","publish":true,"PassFrontmatter":true,"created":"2025-01-08T11:37:21.017-05:00","updated":"2025-01-08T17:44:51.125-05:00"}
+{"tags":["appliances/dryer","appliances/washer","appliances","appliances/dishwasher"],"Links":"[[Dryer & Washer Replacement]]","Created":"2025-01-08","Modified":"2025-01-08","publish":true,"PassFrontmatter":true,"created":"2025-01-08T11:37:21.017-05:00","updated":"2025-01-08T17:46:05.719-05:00"}
 ---
 
 ## Pricing (in-cart) - January 8, 2025
@@ -148,5 +148,3 @@ LDT7808 would be the previous model of LDTH7972S
 	- no remote start
 
 ![Pasted image 20250108155324.png](../../Files/Pasted%20image%2020250108155324.png)
-
-Leaning towards the middle spec model. Doesn't seem to be a big difference between current and previous model. Can decide by final pricing of Costco bundle and CAS bundle.
