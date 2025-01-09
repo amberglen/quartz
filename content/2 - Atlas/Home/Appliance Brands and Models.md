@@ -1,5 +1,5 @@
 ---
-{"tags":["appliances/dryer","appliances/washer","appliances","appliances/dishwasher"],"Links":"[[Dryer & Washer Replacement]]","Created":"2025-01-08","Modified":"2025-01-08","publish":true,"PassFrontmatter":true,"created":"2025-01-08T11:37:21.017-05:00","updated":"2025-01-09T12:00:53.498-05:00"}
+{"tags":["appliances/dryer","appliances/washer","appliances","appliances/dishwasher"],"Links":"[[Dryer & Washer Replacement]]","Created":"2025-01-08","Modified":"2025-01-09","publish":true,"PassFrontmatter":true,"created":"2025-01-08T11:37:21.017-05:00","updated":"2025-01-09T12:01:01.499-05:00"}
 ---
 
 ## Pricing (in-cart) - January 8, 2025
