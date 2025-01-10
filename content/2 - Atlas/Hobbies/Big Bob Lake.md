@@ -1,5 +1,5 @@
 ---
-{"tags":["canoe/routes"],"Created":"2025-01-06","Route Time":"6 hours 50 minutes","Portage (km)":4.52,"Trip Type":"Out and Back","Days":2,"Completed":false,"Access Point":"2 - Tim River","publish":true,"Links":"[[Canoe Route Index]]","Modified":"2025-01-08","PassFrontmatter":true,"created":"2025-01-06T17:31:37.156-05:00","updated":"2025-01-09T17:14:51.877-05:00"}
+{"tags":["canoe/routes"],"Created":"2025-01-06","Route Time":"6 hours, 50 minutes","Portage (km)":4.52,"Trip Type":"Out and Back","Days":2,"Completed":false,"Access Point":"2 - Tim River","publish":true,"Links":"[[Canoe Route Index]]","Modified":"2025-01-09","PassFrontmatter":true,"created":"2025-01-06T17:31:37.156-05:00","updated":"2025-01-09T19:47:45.900-05:00"}
 ---
 
 ![Pasted image 20250106210257.png](../../Files/Pasted%20image%2020250106210257.png)

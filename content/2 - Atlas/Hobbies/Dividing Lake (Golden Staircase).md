@@ -1,5 +1,5 @@
 ---
-{"tags":["canoe/routes"],"Links":"[[Canoe Route Index]]","Created":"2025-01-08","Modified":"2025-01-09","Route Time":"11 hours 50 minutes","Portage (km)":9.5,"Trip Type":"Out and Back","Days":3,"Access Point":"14 - Hollow River - Dividing Lk","Completed":false,"publish":true,"PassFrontmatter":true,"created":"2025-01-08T22:49:50.086-05:00","updated":"2025-01-09T17:14:51.901-05:00"}
+{"tags":["canoe/routes"],"Links":"[[Canoe Route Index]]","Created":"2025-01-08","Modified":"2025-01-09","Route Time":"11 hours, 50 minutes","Portage (km)":9.5,"Trip Type":"Out and Back","Days":3,"Access Point":"14 - Hollow River - Dividing Lk","Completed":false,"publish":true,"PassFrontmatter":true,"created":"2025-01-08T22:49:50.086-05:00","updated":"2025-01-09T19:47:47.207-05:00"}
 ---
 
 ![Pasted image 20250108225304.png](../../Files/Pasted%20image%2020250108225304.png)
