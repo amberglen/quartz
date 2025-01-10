@@ -1,5 +1,5 @@
 ---
-{"tags":["book","reading","algonquin"],"Links":null,"Created":"2025-01-08","Modified":"2025-01-09","Author":"Kevin Callan","Title":"A Paddler's Guide to Algonquin Park","publish":true,"PassFrontmatter":true,"created":"2025-01-08T22:09:31.553-05:00","updated":"2025-01-09T12:03:47.497-05:00"}
+{"tags":["book","reading","algonquin"],"Links":null,"Created":"2025-01-08","Modified":"2025-01-09","Author":"Kevin Callan","Title":"A Paddler's Guide to Algonquin Park","publish":true,"PassFrontmatter":true,"created":"2025-01-08T22:09:31.553-05:00","updated":"2025-01-09T17:15:31.256-05:00"}
 ---
 
 ![Pasted image 20250108221023.png](../../Files/Pasted%20image%2020250108221023.png)
@@ -11,7 +11,7 @@ This book describes the various parts and access points of Algonquin Park along 
 ---
 Most of the routes are longer (i.e., 3+ days); however, reading about the routes provides insight for the shorter routes I might take.
 
-I have created [[2 - Atlas/Hobbies/Canoe Routes\|Canoe Routes]] which are either directly taken or inspired by this book.
+I have created [[2 - Atlas/Hobbies/Canoe Route Index\|canoe routes]] which are either directly taken or inspired by this book.
 ## Notes 
 ---
 

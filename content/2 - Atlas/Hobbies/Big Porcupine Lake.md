@@ -1,5 +1,5 @@
 ---
-{"tags":["canoe/routes"],"Created":"2025-01-06","Route Time":"6 hours 20 minutes (+1 hour depending on campsite)","Portage (km)":1.68,"Trip Type":"Out and Back","Days":2,"Completed":false,"Access Point":"6 - Smoke Lake","publish":true,"Links":"[[Canoe Routes]]","Modified":"2025-01-09","PassFrontmatter":true,"created":"2025-01-06T17:33:08.011-05:00","updated":"2025-01-09T11:51:05.654-05:00"}
+{"tags":["canoe/routes"],"Created":"2025-01-06","Route Time":"6 hours 20 minutes (+1 hour depending on campsite)","Portage (km)":1.68,"Trip Type":"Out and Back","Days":2,"Completed":false,"Access Point":"6 - Smoke Lake","publish":true,"Links":"[[Canoe Route Index]]","Modified":"2025-01-09","PassFrontmatter":true,"created":"2025-01-06T17:33:08.011-05:00","updated":"2025-01-09T17:14:51.886-05:00"}
 ---
 
 ![Pasted image 20250106210149.png](../../Files/Pasted%20image%2020250106210149.png)
