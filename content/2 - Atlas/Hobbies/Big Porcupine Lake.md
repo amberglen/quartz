@@ -1,5 +1,5 @@
 ---
-{"tags":["canoe/routes"],"Created":"2025-01-06","Route Time":"6 hours, 20 minutes (+1 hour depending on campsite)","Portage (km)":1.68,"Trip Type":"Out and Back","Days":2,"Completed":false,"Access Point":"6 - Smoke Lake","publish":true,"Links":"[[Canoe Route Index]]","Modified":"2025-01-10","PassFrontmatter":true,"created":"2025-01-06T17:33:08.011-05:00","updated":"2025-01-10T22:12:11.629-05:00"}
+{"tags":["canoe/routes"],"Created":"2025-01-06","Route Time":"6 hours, 20 minutes (+1 hour depending on campsite)","Portage (km)":1.68,"Trip Type":"Out and Back","Days":2,"Completed":false,"Access Point":"6 - Smoke Lake","publish":true,"Links":"[[Canoe Route Index]]","Modified":"2025-01-10","PassFrontmatter":true,"created":"2025-01-06T17:33:08.011-05:00","updated":"2025-01-10T22:14:11.871-05:00"}
 ---
 
 ![Pasted image 20250106210149.png](../../Files/Pasted%20image%2020250106210149.png)
@@ -17,7 +17,6 @@ Unknown:
 - 14
 
 > [!Campsites]+
-> Test
 > [Campsite #1](https://algonquinbeyond.com/campsites/big-porcupine-lake-campsite-1/)
 > ![Pasted image 20250110203442.png](../../Files/Pasted%20image%2020250110203442.png)
 > The main site is situated up high, and there’s a rather steep climb to get there. There’s a huge fireplace with seating. A couple meters away is a big area that could easily house two or three tents. The site is sheltered with some very tall and large trees, and even though they’ll block the daylight, they still allow the campsite to feel spacious. It’s like the equivalent of having 14ft ceilings at your home. The standout feature of this site, however, is the massive boulder on top of the already rocky and elevated shoreline. It sits just beside a secondary fire pit, out in the open. It has a large fallen tree as makeshift seating. It offered a commanding view out onto the western shoreline of Big Porcupine Lake. It was exceptionally pretty.
