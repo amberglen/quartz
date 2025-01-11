@@ -1,5 +1,5 @@
 ---
-{"tags":["canoe/routes"],"Created":"2025-01-06","Route Time":"6 hours, 20 minutes (+1 hour depending on campsite)","Portage (km)":1.68,"Trip Type":"Out and Back","Days":2,"Completed":false,"Access Point":"6 - Smoke Lake","publish":true,"Links":"[[Canoe Route Index]]","Modified":"2025-01-10","PassFrontmatter":true,"created":"2025-01-06T17:33:08.011-05:00","updated":"2025-01-10T22:14:11.871-05:00"}
+{"tags":["canoe/routes"],"Created":"2025-01-06","Route Time":"6 hours, 20 minutes (+1 hour depending on campsite)","Portage (km)":1.68,"Trip Type":"Out and Back","Days":2,"Completed":false,"Access Point":"6 - Smoke Lake","publish":true,"Links":"[[Canoe Route Index]]","Modified":"2025-01-10","PassFrontmatter":true,"created":"2025-01-06T17:33:08.011-05:00","updated":"2025-01-10T22:16:58.064-05:00"}
 ---
 
 ![Pasted image 20250106210149.png](../../Files/Pasted%20image%2020250106210149.png)
@@ -23,7 +23,7 @@ Unknown:
 > ---
 > [Campsite #4](https://algonquinbeyond.com/campsites/big-porcupine-lake-campsite-4-2023/)
 > ![Pasted image 20250110203921.png](../../Files/Pasted%20image%2020250110203921.png)
-> The big rocky cliff shoreline is much more impressive than I remembered. The interior is very large and exposed. The open concept means you can stargaze right from the fire pit, but of course there’s also the massive rock anchored in the centre of the shoreline, or any choice of rocky areas lower down by the water. Swimming? You guessed it, it’s perfect for that too. The seating was plentiful but it lacked good flat surfaces. There are plenty of tent spots to choose from, 
+> The big rocky cliff shoreline is much more impressive than I remembered. The interior is very large and exposed. The open concept means you can stargaze right from the fire pit, but of course there’s also the massive rock anchored in the centre of the shoreline, or any choice of rocky areas lower down by the water. Swimming? You guessed it, it’s perfect for that too. The seating was plentiful but it lacked good flat surfaces. There are plenty of tent spots to choose from.
 >  
 > This site is adjacent to Campsite #3 and there’s very little visual or sound privacy between the two. And on the other side of the campsite is the portage to Bonnechere Lake (easily walkable from this campsite) and you will most definitely hear people coming and going, unless they’re particularly quiet. You’ll also miss out on the sunrise and moonrise since this is a west-facing campsite. Lastly, there’s a huge boggy marshy swampy gross area right behind the campsite. Even in the final days of September, it was a very buggy campsite because of this. 
 > --- 
@@ -36,14 +36,12 @@ Unknown:
 > [Campsite #13](https://www.algonquinadventures.com/PCI/lakes/BigPorcupine/BigPorcupine-13.htm)
 > ![Pasted image 20250110213852.png](../../Files/Pasted%20image%2020250110213852.png)
 > ![Pasted image 20250110213958.png](../../Files/Pasted%20image%2020250110213958.png)
-> Campsite maintenance: regular 
->  
->  Size of open area: Very very large, actually two campsites in one, nice fire pit with benches. The removed site next door is accessible from the site. It provides another swimming - fishing area away from the main site. 
->  
->  Extent of tree cover: just nice, some open area by the fire pit. 
->  
->  Degree of levelness: up a slight incline from the landing areas, very level across the entire site, down a hill to the privy Number of tent sites: three very easily. North exposure: treed. East exposure: a rock landing area on the east side
->      
+> Campsite maintenance: regular
+> 
+> Size of open area: Very very large, actually two campsites in one, nice fire pit with benches. The removed site next door is accessible from the site. It provides another swimming - fishing area away from the main site. 
+> 
+> Extent of tree cover: just nice, some open area by the fire pit.  
+> Degree of levelness: up a slight incline from the landing areas, very level across the entire site, down a hill to the privy Number of tent sites: three very easily. North exposure: treed. East exposure: a rock landing area on the east side
 > General description: A large, 'rambling' site which has been 'hacked about' a bit. Although it is located on a point, it doesn't have a scenic view. And the thunderbox location certainly isn't private.
 
 ## Contour Map
