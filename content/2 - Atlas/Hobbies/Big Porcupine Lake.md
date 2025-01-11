@@ -1,5 +1,5 @@
 ---
-{"tags":["canoe/routes"],"Created":"2025-01-06","Route Time":"6 hours, 20 minutes (+1 hour depending on campsite)","Portage (km)":1.68,"Trip Type":"Out and Back","Days":2,"Completed":false,"Access Point":"6 - Smoke Lake","publish":true,"Links":"[[Canoe Route Index]]","Modified":"2025-01-11","PassFrontmatter":true,"created":"2025-01-06T17:33:08.011-05:00","updated":"2025-01-11T15:55:30.565-05:00"}
+{"tags":["canoe/routes"],"Created":"2025-01-06","Route Time":"6 hours, 20 minutes (+1 hour depending on campsite)","Portage (km)":1.68,"Trip Type":"Out and Back","Days":2,"Completed":false,"Access Point":"6 - Smoke Lake","publish":true,"Links":"[[Canoe Route Index]]","Modified":"2025-01-11","PassFrontmatter":true,"created":"2025-01-06T17:33:08.011-05:00","updated":"2025-01-11T15:57:18.144-05:00"}
 ---
 
 ![Pasted image 20250106210149.png](../../Files/Pasted%20image%2020250106210149.png)
@@ -48,5 +48,7 @@ Unknown:
 ---
 > [!info]- Contour Map
 > ![Pasted image 20250110215147.png](../../Files/Pasted%20image%2020250110215147.png)
+
+Campsite 13 on the northwest portion may be a good area to fish as there are 2 rivers that flow in. The northwest lake is not as deep as the southwest; however, that will be less important in the spring.
 ## **Trip Report** 
 ---
