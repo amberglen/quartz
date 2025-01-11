@@ -1,5 +1,5 @@
 ---
-{"tags":["canoe/routes"],"Created":"2025-01-06","Route Time":"6 hours, 20 minutes (+1 hour depending on campsite)","Portage (km)":1.68,"Trip Type":"Out and Back","Days":2,"Completed":false,"Access Point":"6 - Smoke Lake","publish":true,"Links":"[[Canoe Route Index]]","Modified":"2025-01-10","PassFrontmatter":true,"created":"2025-01-06T17:33:08.011-05:00","updated":"2025-01-10T21:51:48.303-05:00"}
+{"tags":["canoe/routes"],"Created":"2025-01-06","Route Time":"6 hours, 20 minutes (+1 hour depending on campsite)","Portage (km)":1.68,"Trip Type":"Out and Back","Days":2,"Completed":false,"Access Point":"6 - Smoke Lake","publish":true,"Links":"[[Canoe Route Index]]","Modified":"2025-01-10","PassFrontmatter":true,"created":"2025-01-06T17:33:08.011-05:00","updated":"2025-01-10T21:54:40.668-05:00"}
 ---
 
 ![Pasted image 20250106210149.png](../../Files/Pasted%20image%2020250106210149.png)
@@ -17,12 +17,12 @@ Unknown:
 - 14
 
 > [!Campsites]-
-> [Campsite #1](https://algonquinbeyond.com/campsites/big-porcupine-lake-campsite-1/)
-> ![Pasted image 20250110203442.png](../../Files/Pasted%20image%2020250110203442.png)
-> The main site is situated up high, and there’s a rather steep climb to get there. There’s a huge fireplace with seating that’s way too far away from the actual fire pit (but I’m sure it can be moved, and by the time you’re reading this, it probably already has been). A couple meters away is a big area that could easily house two or three tents. The site is sheltered with some very tall and large trees, and even though they’ll block the daylight, they still allow the campsite to feel spacious. It’s like the equivalent of having 14ft ceilings at your home. The standout feature of this site, however, is the massive boulder on top of the already rocky and elevated shoreline. It sits just beside a secondary fire pit, out in the open. It has a large fallen tree as makeshift seating. It offered a commanding view out onto the western shoreline of Big Porcupine Lake. It was exceptionally pretty.
+>  [Campsite #1](https://algonquinbeyond.com/campsites/big-porcupine-lake-campsite-1/)
+>  ![Pasted image 20250110203442.png](../../Files/Pasted%20image%2020250110203442.png)
+>  The main site is situated up high, and there’s a rather steep climb to get there. There’s a huge fireplace with seating that’s way too far away from the actual fire pit (but I’m sure it can be moved, and by the time you’re reading this, it probably already has been). A couple meters away is a big area that could easily house two or three tents. The site is sheltered with some very tall and large trees, and even though they’ll block the daylight, they still allow the campsite to feel spacious. It’s like the equivalent of having 14ft ceilings at your home. The standout feature of this site, however, is the massive boulder on top of the already rocky and elevated shoreline. It sits just beside a secondary fire pit, out in the open. It has a large fallen tree as makeshift seating. It offered a commanding view out onto the western shoreline of Big Porcupine Lake. It was exceptionally pretty.
 > ---
-> [Campsite #4](https://algonquinbeyond.com/campsites/big-porcupine-lake-campsite-4-2023/)
-> ![Pasted image 20250110203921.png](../../Files/Pasted%20image%2020250110203921.png)
+>  [Campsite #4](https://algonquinbeyond.com/campsites/big-porcupine-lake-campsite-4-2023/)
+>  ![Pasted image 20250110203921.png](../../Files/Pasted%20image%2020250110203921.png)
 >  The big rocky cliff shoreline is much more impressive than I remembered. The interior is very large and exposed. The open concept means you can stargaze right from the fire pit, but of course there’s also the massive rock anchored in the centre of the shoreline, or any choice of rocky areas lower down by the water. Swimming? You guessed it, it’s perfect for that too. The seating was plentiful but it lacked good flat surfaces. There are plenty of tent spots to choose from, 
 >  
 >  This site is adjacent to Campsite #3 and there’s very little visual or sound privacy between the two. And on the other side of the campsite is the portage to Bonnechere Lake (easily walkable from this campsite) and you will most definitely hear people coming and going, unless they’re particularly quiet. You’ll also miss out on the sunrise and moonrise since this is a west-facing campsite. Lastly, there’s a huge boggy marshy swampy gross area right behind the campsite. Even in the final days of September, it was a very buggy campsite because of this. 
