@@ -1,5 +1,5 @@
 ---
-{"tags":["canoe/routes"],"Created":"2025-01-06","Route Time":"6 hours, 20 minutes (+1 hour depending on campsite)","Portage (km)":1.68,"Trip Type":"Out and Back","Days":2,"Completed":false,"Access Point":"6 - Smoke Lake","publish":true,"Links":"[[Canoe Route Index]]","Modified":"2025-01-10","PassFrontmatter":true,"created":"2025-01-06T17:33:08.011-05:00","updated":"2025-01-10T22:20:09.549-05:00"}
+{"tags":["canoe/routes"],"Created":"2025-01-06","Route Time":"6 hours, 20 minutes (+1 hour depending on campsite)","Portage (km)":1.68,"Trip Type":"Out and Back","Days":2,"Completed":false,"Access Point":"6 - Smoke Lake","publish":true,"Links":"[[Canoe Route Index]]","Modified":"2025-01-10","PassFrontmatter":true,"created":"2025-01-06T17:33:08.011-05:00","updated":"2025-01-10T22:20:54.558-05:00"}
 ---
 
 ![Pasted image 20250106210149.png](../../Files/Pasted%20image%2020250106210149.png)
@@ -44,7 +44,7 @@ Unknown:
 > Degree of levelness: up a slight incline from the landing areas, very level across the entire site, down a hill to the privy Number of tent sites: three very easily. North exposure: treed. East exposure: a rock landing area on the east side
 > General description: A large, 'rambling' site which has been 'hacked about' a bit. Although it is located on a point, it doesn't have a scenic view. And the thunderbox location certainly isn't private.
 
-## Contour Map
+## Fishing
 ---
 ![Pasted image 20250110215147.png](../../Files/Pasted%20image%2020250110215147.png)
 ## **Trip Report** 
