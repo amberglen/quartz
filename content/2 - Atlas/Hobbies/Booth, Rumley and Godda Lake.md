@@ -1,10 +1,10 @@
 ---
-{"tags":["canoe/routes"],"Links":"[[Canoe Route Index]]","Created":"2025-01-09","Modified":"2025-03-12","Route Time":"4 hours, 40 minutes","Portage (km)":1.48,"Trip Type":"Out and Back","Days":2,"Access Point":"17 - Shall Lake","Completed":false,"publish":true,"PassFrontmatter":true,"created":"2025-01-09T16:27:14.359-05:00","updated":"2025-03-12T09:10:01.306-04:00"}
+{"tags":["canoe/routes"],"Links":"[[Canoe Route Index]]","Created":"2025-01-09","Modified":"2025-03-12","Route Time":"4 hours, 40 minutes","Portage (km)":1.48,"Trip Type":"Out and Back","Days":2,"Access Point":"17 - Shall Lake","Completed":false,"publish":true,"PassFrontmatter":true,"created":"2025-01-09T16:27:14.359-05:00","updated":"2025-03-12T13:10:33.843-04:00"}
 ---
 
 ![Pasted image 20250109162950.png](../../Files/Pasted%20image%2020250109162950.png)
-Route Time: <% tp.frontmatter["Route Time"] %>
-Portage (km): <% tp.frontmatter["Portage (km)"] %>
+Route Time: 4 hours, 40 minutes
+Portage (km): 1.48
 
 ## **Notes** 
 ---
