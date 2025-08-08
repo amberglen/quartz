@@ -1,13 +1,14 @@
 ---
-{"Created":"2025-01-05","Modified":"2025-01-12","tags":["canoe","algonquin"],"publish":true,"PassFrontmatter":true,"created":"2025-01-05T11:56:00.000-05:00","updated":"2025-01-12T14:23:07.664-05:00"}
+{"publish":true,"created":"2025-01-05T11:56:00.000-05:00","modified":"2025-07-02T22:19:53.312-04:00","tags":["canoe","algonquin"],"cssclasses":""}
 ---
 
 | Route                                                                                       | Access Point                    | Time                                                | Portage (km) | Trip Type    | Days | Completed |
 | ------------------------------------------------------------------------------------------- | ------------------------------- | --------------------------------------------------- | ------------ | ------------ | ---- | --------- |
+| [[2 - Atlas/Hobbies/Byers Lake\|Byers Lake]]                                             | \-                              | \-                                                  | \-           | \-           | \-   | ☐         |
 | [[2 - Atlas/Hobbies/Ragged Lake Loop\|Ragged Lake Loop]]                                 | 6 - Smoke Lake                  | 4 hours, 20 minutes                                 | 1.73         | Loop         | 2    | ☐         |
 | [[2 - Atlas/Hobbies/Booth, Rumley and Godda Lake\|Booth, Rumley and Godda Lake]]         | 17 - Shall Lake                 | 4 hours, 40 minutes                                 | 1.48         | Out and Back | 2    | ☐         |
 | [[2 - Atlas/Hobbies/Galeairy Lake Loop\|Galeairy Lake Loop]]                             | 9 - Rock Lake                   | 5 hours, 55 minutes                                 | 2.17         | Loop         | 2    | ☐         |
-| [[2 - Atlas/Hobbies/Linda Lake\|Linda Lake]]                                             | 7 - Source Lake                 | 6 hours                                             | 6.36         | Out and Back | 2    | ☐         |
+| [[2 - Atlas/Hobbies/Linda, Iris Lake\|Linda, Iris Lake]]                                 | 7 - Source Lake                 | 6 hours                                             | 6.36         | Out and Back | 2    | ☑         |
 | [[2 - Atlas/Hobbies/Big Bob Lake\|Big Bob Lake]]                                         | 2 - Tim River                   | 6 hours, 50 minutes                                 | 4.52         | Out and Back | 2    | ☐         |
 | [[2 - Atlas/Hobbies/Big Porcupine Lake\|Big Porcupine Lake]]                             | 6 - Smoke Lake                  | 6 hours, 20 minutes (+1 hour depending on campsite) | 1.68         | Out and Back | 2    | ☐         |
 | [[2 - Atlas/Hobbies/Kingscote, Scorch Lake\|Kingscote, Scorch Lake]]                     | 15 - Kingscote Lake             | 8 hours, 10 minutes                                 | 6.38         | Out and Back | 3    | ☐         |

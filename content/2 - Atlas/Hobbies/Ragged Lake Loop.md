@@ -1,15 +1,15 @@
 ---
-{"tags":["canoe/routes"],"Links":"[[Canoe Route Index]]","Created":"2025-01-08","Modified":"2025-01-09","Route Time":"4 hours, 20 minutes","Portage (km)":1.73,"Trip Type":"Loop","Days":2,"Access Point":"6 - Smoke Lake","Completed":false,"publish":true,"PassFrontmatter":true,"created":"2025-01-08T21:45:26.086-05:00","updated":"2025-01-09T19:48:04.529-05:00"}
+{"publish":true,"created":"2025-01-08T21:45:26.086-05:00","modified":"2025-01-09T19:48:04.529-05:00","tags":["canoe/routes"],"cssclasses":""}
 ---
 
-![Pasted image 20250108214618.png](../../Files/Pasted%20image%2020250108214618.png)
+![[Files/Pasted image 20250108214618.png]]
 
 ## **Notes** 
 ---
 Quick weekend trip with light paddling (~2 hours per day) and limited portaging. The west side of the loop has more portages.
 Smoke Lake can get windy, which may add significant travel time.
 
-Refer to page 31 of [[2 - Atlas/Hobbies/A Paddler's Guide to Algonquin Park\|A Paddler's Guide to Algonquin Park]].
+Refer to page 31 of [[2 - Atlas/Hobbies/A Paddler's Guide to Algonquin Park]].
 > ONE OF THE ADVANTAGES OF BEGINNING A TRIP FROM SMOKE LAKE rather than its neighbor, Canoe Lake, is that your chance of having a prevailing wind help rather than hinder you is greatly increased. This southern access also offers one of the best weekend circle routes along the Highway 60 corridor — the Ragged Lake loop.
 > 
 > ....

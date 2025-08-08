@@ -1,8 +1,8 @@
 ---
-{"tags":["book","reading","algonquin"],"Links":null,"Created":"2025-01-08","Modified":"2025-01-10","Author":"Kevin Callan","Title":"A Paddler's Guide to Algonquin Park","publish":true,"PassFrontmatter":true,"created":"2025-01-08T22:09:31.553-05:00","updated":"2025-01-10T22:15:22.950-05:00"}
+{"publish":true,"created":"2025-01-08T22:09:31.553-05:00","modified":"2025-01-10T22:15:22.950-05:00","tags":["book","reading","algonquin"],"cssclasses":""}
 ---
 
-![Pasted image 20250108221023.png](../../Files/Pasted%20image%2020250108221023.png)
+![[Files/Pasted image 20250108221023.png]]
 ## Summary 
 ---
 This book describes the various parts and access points of Algonquin Park along with a few routes of varying length and difficulty for each. Kevin describes the geography and history of the areas and provides his own experiences.
