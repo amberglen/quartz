@@ -1,86 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-06T19:59:41.017-04:00","modified":"2025-10-06T20:36:30.690-04:00","tags":["china","beijing"],"cssclasses":""}
----
-
-# TL;DR picks (what’s worth it vs. skip)
-
-* **Do**: Forbidden City (+Tiananmen), Temple of Heaven, Jingshan+Beihai combo, Lama Temple, **Great Wall (Mutianyu)**, Summer Palace.
-* **Optional / only if time**: National Museum (excellent, but time-intensive; pick a gallery), Wangfujing at night (snack street is touristy; go for a stroll, not a meal).
-* **Skip**: Trying to do **both** Summer Palace *and* Great Wall on the same day (you’ll just spend your day in transit).
-
-# Where to stay (fastest hub for your plan)
-
-* **Dongcheng (Gulou/Nanluoguxiang ↔ Wangfujing corridor)**: walkable to hutongs, direct metro to Temple of Heaven/Forbidden City/Lama Temple; easy Didi pick-ups.
-* Typical 4★ **price range** near Wangfujing: ~**US$120–160**/night; you can go ~US$80–110 if flexible. ([Agoda][6])
-
-## Hotel recommendations (fit to your itinerary)
-
-You’ll be moving mainly along the **east-west spine from Tiantan → Tiananmen → Lama Temple → Houhai**, so you want to base yourself **in Dongcheng**, within the 2nd Ring Road.  
-That keeps every day under 30 minutes’ transit.
-
-### 🔹 **Best Area Choices (ranked for your itinerary)**
-
-| Area                                            | Why it works                                                                  | Access                            |
-| ----------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------- |
-| **Nanluoguxiang / Shichahai (North Dongcheng)** | Walkable to hutongs, Beihai, Lama Temple, bars/cafés; atmospheric courtyards. | Metro Line 6 & 8 (Nanluoguxiang). |
-| **Wangfujing (East Dongcheng)**                 | Central for Tiananmen, Forbidden City, shopping; easy metro hub.              | Line 1 (Wangfujing / Dongdan).    |
-| **Qianmen (South Dongcheng)**                   | Close to Temple of Heaven, Tiananmen, National Museum; quieter nights.        | Line 2 (Qianmen).                 |
-
----
-
-### 💼 **Hotel Recommendations**
-| Hotel                                | Area            | Style                             | Walk/ride to key Day-2 site    | Approx rate (Nov 2025) |
-| ------------------------------------ | --------------- | --------------------------------- | ------------------------------ | ---------------------- |
-| **The Orchid Hotel**                 | Nanluoguxiang   | Boutique hutong, modern amenities | 20 min walk → Beihai Park      | ¥1 000 (CA $180)       |
-| **Double Happiness Courtyard Hotel** | Dongsi          | Historic courtyard, authentic     | 15 min Didi → Temple of Heaven | ¥900 (CA $160)         |
-| **NUO Hotel Qianmen**                | South Dongcheng | Upscale, classic decor            | 10 min walk → Qianmen Street   | ¥1 200 (CA $215)       |
-| **Regent Beijing**                   | Wangfujing      | 5★, international service         | 10 min metro → Tiananmen       | ¥1 400 (CA $250)       |
-| **Peking Yard Hostel**               | Dongsi          | Budget courtyard hostel           | 15 min walk → Wangfujing       | ¥450 (CA $80)          |
-
-#### ⭐️ Mid-range (great value, clean, modern)
-
-|Name|Area|Why|
-|---|---|---|
-|**Beijing NUO Hotel Qianmen**|Near Qianmen Gate|Boutique style, elegant, 15 min walk to Tiananmen.|
-|**Peking Yard Hostel / Courtyard Hotel**|Dongsi / Nanluoguxiang|Converted siheyuan (courtyard); cozy, authentic.|
-|**Holiday Inn Express Beijing Dongzhimen**|NE Dongcheng|Western comfort; quick Didi to Lama Temple.|
-
-#### 🏮 Character / Boutique
-
-|Name|Area|Why|
-|---|---|---|
-|**The Orchid Hotel**|Baochao Hutong (Nanluoguxiang)|Stylish, excellent breakfast & service; perfect hutong base.|
-|**Double Happiness Courtyard Hotel (Lu Song Yuan)**|Dongsi / Wusi area|Classic courtyard architecture; atmospheric yet central.|
-|**Hotel Éclat Beijing**|Parkview Green (Wangfujing)|Contemporary art hotel inside glass atrium; modern contrast day 4–5.|
-
-#### 💎 Upscale / Splurge
-
-|Name|Area|Why|
-|---|---|---|
-|**Peninsula Beijing**|Wangfujing|Walkable to Tiananmen & Forbidden City; luxurious but not sterile.|
-|**Regent Beijing**|Dongdan/Wangfujing|Pool, metro access, consistent English service.|
-|**Aman at Summer Palace**|West Beijing|Once-in-a-lifetime option if you decide to linger near Summer Palace afterward.|
-
----
-
-### 💡 **Strategic Pick**
-
-For your current plan, **The Orchid Hotel** or **Double Happiness Courtyard Hotel** are the sweet spot:
-
-- You can walk or bike to Jingshan, Beihai, and Lama Temple.
-- Metro is 5 min away for Tiantan / Tiananmen / Wangfujing days.
-- Nightlife and food options are literally outside the door.
-
-Budget around **¥900–1200 / night (CA $165–220)** for boutique, less for chain.
-
----
-
-### 🔧 Practical additions to note
-
-- **Hotel storage:** almost all will hold your bags on departure day for free.
-- **Ask for a “courtyard view”** room if you stay in a hutong hotel; some face alleys.
-- **Noise:** bring earplugs for Nanluoguxiang area if you’re sensitive—lively evenings.
-
+{"publish":true,"created":"2025-10-06T19:59:41.017-04:00","modified":"2025-10-06T20:41:36.023-04:00","tags":["china","beijing"],"cssclasses":""}
 ---
 
 # 🧭 BEIJING ITINERARY — NOV 16 – 20, 2025
@@ -284,16 +203,24 @@ Snacks/water for the train; find your gate calmly.
 
 - **Metro backbone (cheap & fast):**  
     Day 2: Hotel → **Line 5 → Tiantan Dongmen**; Day 3: **Line 1 → Tiananmen East**; Day 3: **Line 5 → Line 1 → Wangfujing**; Day 5: **Line 1/2** as needed.
-    
 - **Didi when 2+ metro transfers or long hops:**  
     Day 2: Tiantan → Jingshan; Day 3: Forbidden City (north exit) → Lama; Day 4: Mutianyu legs; Day 5: Hotel → Beijing South.
-    
 - **Bike share for hutong zones:**  
     Day 2: Beihai → Houhai (Meituan bikes via Alipay, ¥2/30 min).
-    
 - **Walking within clusters:**  
     Jingshan ↔ Beihai, Lama ↔ Confucius, Wangfujing areas, Qianmen/Dashilan, evening hotel loops.
     
+
+---
+## 🌧️ **Quick Weather / Smog Contingency Plan**
+
+If you wake up to heavy rain or high PM2.5 readings:
+
+- Replace **Temple of Heaven / Beihai** with **National Museum of China**.
+- Replace **hutong walks** with **798 Art District** (indoor galleries).
+- Add an evening show:
+    - **Red Theatre Kung Fu Show (红剧场功夫传奇)**
+    - **Chaoyang Theatre Acrobatics (朝阳剧场杂技)**
 
 ---
 
@@ -423,12 +350,83 @@ Snacks/water for the train; find your gate calmly.
 
 ---
 
-## 🌧️ **Quick Weather / Smog Contingency Plan**
+# TL;DR picks (what’s worth it vs. skip)
 
-If you wake up to heavy rain or high PM2.5 readings:
+* **Do**: Forbidden City (+Tiananmen), Temple of Heaven, Jingshan+Beihai combo, Lama Temple, **Great Wall (Mutianyu)**, Summer Palace.
+* **Optional / only if time**: National Museum (excellent, but time-intensive; pick a gallery), Wangfujing at night (snack street is touristy; go for a stroll, not a meal).
+* **Skip**: Trying to do **both** Summer Palace *and* Great Wall on the same day (you’ll just spend your day in transit).
 
-- Replace **Temple of Heaven / Beihai** with **National Museum of China**.
-- Replace **hutong walks** with **798 Art District** (indoor galleries).
-- Add an evening show:
-    - **Red Theatre Kung Fu Show (红剧场功夫传奇)**
-    - **Chaoyang Theatre Acrobatics (朝阳剧场杂技)**
+# Where to stay (fastest hub for your plan)
+
+* **Dongcheng (Gulou/Nanluoguxiang ↔ Wangfujing corridor)**: walkable to hutongs, direct metro to Temple of Heaven/Forbidden City/Lama Temple; easy Didi pick-ups.
+* Typical 4★ **price range** near Wangfujing: ~**US$120–160**/night; you can go ~US$80–110 if flexible. ([Agoda][6])
+
+## Hotel recommendations (fit to your itinerary)
+
+You’ll be moving mainly along the **east-west spine from Tiantan → Tiananmen → Lama Temple → Houhai**, so you want to base yourself **in Dongcheng**, within the 2nd Ring Road.  
+That keeps every day under 30 minutes’ transit.
+
+### 🔹 **Best Area Choices (ranked for your itinerary)**
+
+| Area                                            | Why it works                                                                  | Access                            |
+| ----------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------- |
+| **Nanluoguxiang / Shichahai (North Dongcheng)** | Walkable to hutongs, Beihai, Lama Temple, bars/cafés; atmospheric courtyards. | Metro Line 6 & 8 (Nanluoguxiang). |
+| **Wangfujing (East Dongcheng)**                 | Central for Tiananmen, Forbidden City, shopping; easy metro hub.              | Line 1 (Wangfujing / Dongdan).    |
+| **Qianmen (South Dongcheng)**                   | Close to Temple of Heaven, Tiananmen, National Museum; quieter nights.        | Line 2 (Qianmen).                 |
+
+---
+
+### 💼 **Hotel Recommendations**
+| Hotel                                | Area            | Style                             | Walk/ride to key Day-2 site    | Approx rate (Nov 2025) |
+| ------------------------------------ | --------------- | --------------------------------- | ------------------------------ | ---------------------- |
+| **The Orchid Hotel**                 | Nanluoguxiang   | Boutique hutong, modern amenities | 20 min walk → Beihai Park      | ¥1 000 (CA $180)       |
+| **Double Happiness Courtyard Hotel** | Dongsi          | Historic courtyard, authentic     | 15 min Didi → Temple of Heaven | ¥900 (CA $160)         |
+| **NUO Hotel Qianmen**                | South Dongcheng | Upscale, classic decor            | 10 min walk → Qianmen Street   | ¥1 200 (CA $215)       |
+| **Regent Beijing**                   | Wangfujing      | 5★, international service         | 10 min metro → Tiananmen       | ¥1 400 (CA $250)       |
+| **Peking Yard Hostel**               | Dongsi          | Budget courtyard hostel           | 15 min walk → Wangfujing       | ¥450 (CA $80)          |
+
+#### ⭐️ Mid-range (great value, clean, modern)
+
+|Name|Area|Why|
+|---|---|---|
+|**Beijing NUO Hotel Qianmen**|Near Qianmen Gate|Boutique style, elegant, 15 min walk to Tiananmen.|
+|**Peking Yard Hostel / Courtyard Hotel**|Dongsi / Nanluoguxiang|Converted siheyuan (courtyard); cozy, authentic.|
+|**Holiday Inn Express Beijing Dongzhimen**|NE Dongcheng|Western comfort; quick Didi to Lama Temple.|
+
+#### 🏮 Character / Boutique
+
+|Name|Area|Why|
+|---|---|---|
+|**The Orchid Hotel**|Baochao Hutong (Nanluoguxiang)|Stylish, excellent breakfast & service; perfect hutong base.|
+|**Double Happiness Courtyard Hotel (Lu Song Yuan)**|Dongsi / Wusi area|Classic courtyard architecture; atmospheric yet central.|
+|**Hotel Éclat Beijing**|Parkview Green (Wangfujing)|Contemporary art hotel inside glass atrium; modern contrast day 4–5.|
+
+#### 💎 Upscale / Splurge
+
+|Name|Area|Why|
+|---|---|---|
+|**Peninsula Beijing**|Wangfujing|Walkable to Tiananmen & Forbidden City; luxurious but not sterile.|
+|**Regent Beijing**|Dongdan/Wangfujing|Pool, metro access, consistent English service.|
+|**Aman at Summer Palace**|West Beijing|Once-in-a-lifetime option if you decide to linger near Summer Palace afterward.|
+
+---
+
+### 💡 **Strategic Pick**
+
+For your current plan, **The Orchid Hotel** or **Double Happiness Courtyard Hotel** are the sweet spot:
+
+- You can walk or bike to Jingshan, Beihai, and Lama Temple.
+- Metro is 5 min away for Tiantan / Tiananmen / Wangfujing days.
+- Nightlife and food options are literally outside the door.
+
+Budget around **¥900–1200 / night (CA $165–220)** for boutique, less for chain.
+
+---
+
+### 🔧 Practical additions to note
+
+- **Hotel storage:** almost all will hold your bags on departure day for free.
+- **Ask for a “courtyard view”** room if you stay in a hutong hotel; some face alleys.
+- **Noise:** bring earplugs for Nanluoguxiang area if you’re sensitive—lively evenings.
+
+---
