@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-01-09T15:30:36.196-05:00","modified":"2025-07-14T21:49:11.809-04:00","tags":["canoe/routes"],"cssclasses":""}
+{"publish":true,"created":"2025-01-09T15:30:36.196-05:00","modified":"2025-08-15T20:56:50.806-04:00","tags":["canoe/routes"],"cssclasses":""}
 ---
 
 ![[Files/Pasted image 20250109153220.png]]
@@ -41,7 +41,10 @@ Reviewed Campsites:
   
 Unknown:
 - 6
+## Fishing
+![[Files/Pasted image 20250815205640.png]]
 
+![[Files/Pasted image 20250812225008.png]]
 
 ## **Trip Report** 
 ---
